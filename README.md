@@ -1,4 +1,4 @@
-# Draco Network Bot
+# Suego Network Bot
 
 A small Discord network utility bot built in Python.
 
